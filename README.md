@@ -1,7 +1,7 @@
 # Hayvan Sınıflandırma Projesi
 Bu proje, VGG16, ResNet ve özelleştirilmiş bir CNN modeli kullanarak belirli hayvan türlerini sınıflandırmayı amaçlamaktadır. Üç farklı model denedikten sonra, en iyi sonuç veren VGG16 üzerinden çalışmalara devam edilmiştir.
 
-## Lütfen kodu Google Colab üzerinden çalıştırmak isteyen arkadaşlar Çalışma zamanı > Çalışma zamanı türünü değiştir > v2-8 TPU seçsin.
+#### Lütfen kodu Google Colab üzerinden çalıştırmak isteyen arkadaşlar Çalışma zamanı > Çalışma zamanı türünü değiştir > v2-8 TPU seçsin.
 
 ## Veri Seti
 Proje, "[Animals with Attributes 2](https://www.kaggle.com/rrebirrth/animals-with-attributes-2)" veri setini kullanmaktadır. Veri setinde 50 farklı hayvan türüne ait resimler bulunmaktadır. Ancak bu proje aşağıdaki 10 hayvan türüne odaklanmıştır:
