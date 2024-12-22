@@ -61,8 +61,8 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - ResNet modeli, benzer veri artırma teknikleriyle eğitilmiştir.
 
 - **Sonuçlar**
-  - **Test Loss**: [Sonuç eklenmeli]
-  - **Test Accuracy**: [Sonuç eklenmeli]
+  - **Test Loss**: [1.6130053997039795]
+  - **Test Accuracy**: [0.4502564072608948]
 
 
   - ResNet modeli bağlantısı: [ResNet Modeli](https://colab.research.google.com/drive/1niqPY9xY4ine64EW_ZKOWa3TOAoP6QBT?usp=sharing)
