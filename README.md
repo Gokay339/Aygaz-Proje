@@ -52,6 +52,8 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - **Test Loss**: [Sonuç eklenmeli]
   - **Test Accuracy**: [Sonuç eklenmeli]
 
+- VGG16 modeli bağlantısı: [VGG16 Modeli](https://colab.research.google.com/drive/1niqPY9xY4ine64EW_ZKOWa3TOAoP6QBT?usp=sharing)
+
 
 ### 2. **ResNet**
 - **Özellikler**
@@ -70,8 +72,8 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - Scratch (sıfırdan) bir CNN modeli tasarlanmış ve eğitilmiştir.
 
 - **Sonuçlar**
-  - **Test Loss**: [Sonuç eklenmeli]
-  - **Test Accuracy**: [Sonuç eklenmeli]
+  - **Test Loss**: [1.177716612815857]
+  - **Test Accuracy**: [0.5841025710105896]
 
 
   - CNN modeli bağlantısı: [CNN Modeli](https://colab.research.google.com/drive/161oHfv6lYHywYd-1lLupzKIvKoB5RtDV?usp=sharing)
