@@ -49,10 +49,10 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - Yeni tam bağlı katmanlar ve Dropout eklenmiştir.
 
 - **Sonuçlar**
-  - **Test Loss**: [Sonuç eklenmeli]
-  - **Test Accuracy**: [Sonuç eklenmeli]
+  - **Test Loss**: [0.3789326846599579]
+  - **Test Accuracy**: [0.9030769467353821]
 
-- VGG16 modeli bağlantısı: [VGG16 Modeli](https://colab.research.google.com/drive/1niqPY9xY4ine64EW_ZKOWa3TOAoP6QBT?usp=sharing)
+- VGG16 modeli bağlantısı: [VGG16 Modeli](https://colab.research.google.com/drive/1uPS-GJRLTO2jvPsljuSpEBffKmoQzMle?usp=sharing)
 
 
 ### 2. **ResNet**
