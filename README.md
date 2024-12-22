@@ -74,7 +74,7 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - **Test Accuracy**: [Sonuç eklenmeli]
 
 - **Model Kayıt**
-  - CNN modeli bağlantısı: [CNN Modeli](https://colab.research.google.com/drive/1__PVAnlqKpaDpbC6eM32X4sMQGECVaBi?usp=sharing)
+  - CNN modeli bağlantısı: [CNN Modeli](https://colab.research.google.com/drive/161oHfv6lYHywYd-1lLupzKIvKoB5RtDV?usp=sharing)
 
 ---
 
