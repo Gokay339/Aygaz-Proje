@@ -50,8 +50,6 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - **Test Loss**: [Sonuç eklenmeli]
   - **Test Accuracy**: [Sonuç eklenmeli]
 
-- **Model Kayıt**
-  - Model, `vgg16_model.h5` dosyası olarak kaydedilmiştir.
 
 ### 2. **ResNet**
 - **Özellikler**
@@ -62,7 +60,7 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - **Test Loss**: [Sonuç eklenmeli]
   - **Test Accuracy**: [Sonuç eklenmeli]
 
-- **Model Kayıt**
+
   - ResNet modeli bağlantısı: [ResNet Modeli](https://colab.research.google.com/drive/1niqPY9xY4ine64EW_ZKOWa3TOAoP6QBT?usp=sharing)
 
 ### 3. **CNN (Convolutional Neural Network)**
@@ -73,7 +71,7 @@ Her bir sınıf için en fazla 650 resim kullanılmıştır. Gereksiz sınıflar
   - **Test Loss**: [Sonuç eklenmeli]
   - **Test Accuracy**: [Sonuç eklenmeli]
 
-- **Model Kayıt**
+
   - CNN modeli bağlantısı: [CNN Modeli](https://colab.research.google.com/drive/161oHfv6lYHywYd-1lLupzKIvKoB5RtDV?usp=sharing)
 
 ---
