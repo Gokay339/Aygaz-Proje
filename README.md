@@ -3,6 +3,8 @@ Bu proje, VGG16, ResNet ve özelleştirilmiş bir CNN modeli kullanarak belirli 
 
 Lütfen kodu Google Colab üzerinden çalıştırmak isteyen arkadaşlar şu adımları izlesin:
 - **Çalışma zamanı > Çalışma zamanı türünü değiştir > v2-8 TPU** seçeneğini seçin.
+Ben projeyi Google Colab üzerinden yaptım ve bu modeli kullandım.
+
 
 ## Veri Seti
 Proje, "[Animals with Attributes 2](https://www.kaggle.com/rrebirrth/animals-with-attributes-2)" veri setini kullanmaktadır. Veri setinde 50 farklı hayvan türüne ait resimler bulunmaktadır. Ancak bu proje aşağıdaki 10 hayvan türüne odaklanmıştır:
